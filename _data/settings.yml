@@ -10,6 +10,7 @@ menu:
 - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Teaching', url: 'teaching'}
 - {name: 'Research', url: 'research'}
+- {name: 'CV', url: 'cv'}
 # - {name: 'Learning Resources', url: 'resources'}
 # - {name: 'Sample Posts',       url: 'sample-posts'}
 # - {name: 'Documentation',      url: 'documentation'}
