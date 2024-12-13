@@ -1,8 +1,7 @@
 ---
-bibliography:
-- selected-publications.bib
-- pop_2024.bib
-nocite: "[@*]"
+layout: page
+title: Teaching
+permalink: /teaching
 ---
 
 ::: center
