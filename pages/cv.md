@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching
+title: Curriculum Vitae
+permalink: /cv
 ---
 
 ::: center
