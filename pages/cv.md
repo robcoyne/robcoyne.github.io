@@ -4,16 +4,6 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-::: center
-**Robert R. Coyne**\
-**Curriculum Vitae**
-:::
-
-University of Rhode Island +1 (401) 874-4928 (office)\
-Department of Physics robcoyne@uri.edu\
-East Hall, 2 Lippitt Road\
-Kingston, RI 02881
-
 # Education {#education .unnumbered}
 
 ::: tabbing
