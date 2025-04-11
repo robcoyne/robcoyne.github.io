@@ -21,10 +21,10 @@ menu:
 social:
 # - {icon: 'twitter', link:    'https://twitter.com/robcoyne'}
 # - {icon: 'facebook', link:   'https://www.facebook.com/robcoyne'}
-- {icon: 'square-bluesky', link:  'https://bsky.app/profile/robcoyne.com'}
-- {icon: 'instagram', link:  'https://instagram.com/robcoyne'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/robcoyne/'}
-- {icon: 'envelope', link:   'mailto:robcoyne@uri.edu'}
+- {icon: 'fa-square-bluesky', link:  'https://bsky.app/profile/robcoyne.com'}
+- {icon: 'fa-instagram', link:  'https://instagram.com/robcoyne'}
+- {icon: 'fa-linkedin', link: 'https://www.linkedin.com/in/robcoyne/'}
+- {icon: 'fa-envelope', link:   'mailto:robcoyne@uri.edu'}
 # - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
