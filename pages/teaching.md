@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-## Classroom Teaching
+## Inside the Classroom
 
 **PHY-49X: General Relativity** This course is targeted at advanced undergraduates and junior graduate students who have not yet taken a course in General Relativity. It begins with a review of special relativity, and subsequently establishes the basics of tensor algebra and tensor calculus. From there, we derive the Einstein field equations and explore specific solutions thereof (i.e. Schwarzschild, Reissner–Nordström, and Kerr black holes, gravitational waves, and others as time allows).
 
@@ -14,7 +14,7 @@ permalink: /teaching
 
 **PHY-204: Elementary Physics II** The second course in the introductory physics sequence covers electricity, magnetism, and ciruit theory applications. The course follows a pattern of theory, followed by application. The physics of Electric fields (and their applications) are then followed by simple circuit applications involving capacitors, resistance, and current. Then the physics of Magnetic fields (and their applications) are followed by the introduction of inductors and time-dependent circuits. Notably, in addition to being a required course for physics majors, successful completion of this course is a requirement for admission into URI's college of engineering.
 
-## Teaching Outside of the Classroom
+## Outside of the Classroom
 
 **How to Give Great Presentations: A scientist's guide to effective communication** I co-developed (and subsequently run) multiple one-day workshop on scientific communication that has run annually as a part of the regular meetings of the American Astronomical Society, starting with the 240th meeting in June 2022. This workshop covers the design and delivery of both oral and poster presentations, with advice for in-person, hybrid, and virtual formats. Participants also get opportunities to develop and practice their own presentations, with advice from the organizers and guest panelists who have been recognized for their excellence in scientific communication.
 
