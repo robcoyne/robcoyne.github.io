@@ -7,7 +7,7 @@ permalink: /research
 My primary work is in multi-messenger observation of gamma-ray bursts and their exotic remnants. Key to this effort is a novel cross-correlation gravitational wave analysis technique that is optimized for detecting long-lived gravitational wave transients that might arise after some GRBs. Detecting such signals will finally allow us to understand what is left behind after these cataclysmic events. 
 
 - Cross-correlation method for intermediate-duration gravitational wave searches associated with gamma-ray bursts ([arXiv](https://arxiv.org/abs/1512.01301), [publisher](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.104059))
-- Multi-waveform cross-correlation search method for intermediate-duration gravitational waves from gamma-ray bursts ([arXiv](https://arxiv.org/abs/1906.03998), [publisher](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.124041)
+- Multi-waveform cross-correlation search method for intermediate-duration gravitational waves from gamma-ray bursts ([arXiv](https://arxiv.org/abs/1906.03998), [publisher](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.124041))
 - Searches for post-merger GWs with CoCoA: sensitivity across large template banks with present and future detector networks (in prep)
 
 I am also an active member of the analysis and paper writing teams for several LIGO-Virgo-KAGRA collaboration publications on the topic (extending back to [2014](https://arxiv.org/abs/1405.1053)), including our most recent publications from the LVK’s third observing run (see below).
