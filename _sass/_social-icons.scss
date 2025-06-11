@@ -19,9 +19,9 @@
   @include social-media-icon($twitter-color, $icon-transition-time);
 }
 
-.fa-square-bluesky {
+.fa-bluesky {
   padding: 5px;
-  @include social-media-icon($square-bluesky-color, $icon-transition-time);
+  @include social-media-icon($bluesky-color, $icon-transition-time);
 }
     
 .fa-instagram {
