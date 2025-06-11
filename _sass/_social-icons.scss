@@ -1,3 +1,5 @@
+$bluesky-color: #1185fe;
+
 @mixin social-media-icon($color, $transition){
   -webkit-transition: $transition;
   -o-transition: $transition;
