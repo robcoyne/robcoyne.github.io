@@ -21,7 +21,7 @@ menu:
 social:
 # - {icon: 'twitter', link:    'https://twitter.com/robcoyne'}
 # - {icon: 'facebook', link:   'https://www.facebook.com/robcoyne'}
-- {icon: 'bluesky', link:  'https://bsky.app/profile/robcoyne.com'}
+- {icon: 'square-bluesky', link:  'https://bsky.app/profile/robcoyne.com'}
 - {icon: 'instagram', link:  'https://instagram.com/robcoyne'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/robcoyne/'}
 - {icon: 'envelope', link:   'mailto:robcoyne@uri.edu'}
